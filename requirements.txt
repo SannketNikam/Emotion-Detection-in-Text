@@ -1,5 +1,8 @@
 numpy
 pandas
+seaborn
+neattext
+sklearn
 joblib
 plotly
 altair
