@@ -4,3 +4,5 @@ seaborn
 neattext
 sklearn
 joblib
+plotly
+altair
