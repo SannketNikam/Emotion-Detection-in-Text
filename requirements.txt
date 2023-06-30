@@ -2,7 +2,7 @@ numpy
 pandas
 seaborn
 neattext
-sklearn
+scikit-learn
 joblib
 plotly
 altair
