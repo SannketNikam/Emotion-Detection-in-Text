@@ -6,3 +6,5 @@ sklearn
 joblib
 plotly
 altair
+streamlit
+datetime
